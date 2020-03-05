@@ -61,8 +61,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "SDCOE | #innovateSD - Online Learning Resources for Schools COVID-19 Coronavirus",
+        "meta_descr": "In response to the global spread of COVID-19 Coronavirus, several technology companies are providing free access to additional features and capabilities of their online tools for a limited time.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
